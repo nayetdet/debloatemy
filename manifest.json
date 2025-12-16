@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Debloatemy",
+  "version": "1.0",
+  "description": "Disables Udemy's new experimental user interface.",
+  "icons": {
+    "48": "icons/border-48.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://*.udemy.com/*"],
+      "js": ["debloatemy.js"],
+      "run_at": "document_start"
+    }
+  ]
+}
