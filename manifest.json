@@ -12,5 +12,14 @@
       "js": ["debloatemy.js"],
       "run_at": "document_start"
     }
-  ]
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "debloatemy@local",
+      "strict_min_version": "146.0",
+      "data_collection_permissions": {
+        "required": ["none"]
+      }
+    }
+  }
 }
