@@ -1,46 +1,46 @@
 # Debloatemy
 
-Debloatemy é uma extensão para o Firefox que desativa a interface experimental da Udemy, forçando o uso da interface clássica quando possível.
+Debloatemy is a Firefox extension that disables Udemy’s experimental interface, forcing the classic interface whenever possible.
 
-A extensão funciona automaticamente nas páginas da Udemy, sem necessidade de configuração.
-
----
-
-## Funcionalidades
-
-- Extensão exclusiva para Firefox
-- Desativa a interface experimental da Udemy
-- Funciona automaticamente no domínio `udemy.com`
-- Não coleta nem transmite dados do usuário
+The extension runs automatically on Udemy pages and requires no configuration.
 
 ---
 
-## Como usar
+## Features
 
-1. Instale a extensão no Firefox.
-2. Acesse o site da Udemy.
-3. A interface experimental será desativada automaticamente, quando aplicável.
-
----
-
-## Privacidade
-
-A extensão não coleta dados, não realiza rastreamento e não se comunica com servidores externos.  
-Toda a lógica é executada localmente no navegador.
+- Firefox-only extension
+- Disables Udemy’s experimental interface
+- Runs automatically on the `udemy.com` domain
+- Does not collect or transmit any user data
 
 ---
 
-## Aviso
+## How to use
 
-Projeto experimental.  
-A Udemy pode alterar o funcionamento do site a qualquer momento.
+1. Install the extension in Firefox.
+2. Visit the Udemy website.
+3. The experimental interface will be disabled automatically, when applicable.
 
 ---
 
-## Licença
+## Privacy
+
+This extension does not collect data, perform tracking, or communicate with external servers.  
+All logic runs locally in the browser.
+
+---
+
+## Disclaimer
+
+This is an experimental project.  
+Udemy may change its website at any time, which may affect the extension’s behavior.
+
+---
+
+## License
 
 MIT License.
 
 ---
 
-Este projeto é exclusivo para Firefox e não é afiliado nem endossado pela Udemy.
+This project is Firefox-only and is not affiliated with or endorsed by Udemy.
